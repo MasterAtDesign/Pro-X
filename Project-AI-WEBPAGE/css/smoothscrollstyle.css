@@ -1,0 +1,22 @@
+body {
+  overscroll-behavior: none;
+}
+
+.js-title {
+   position: absolute;
+   width: 100%;
+   left: 0;
+   right: 0;
+   text-align: center;
+   font-size: 150px;
+   font-weight: bold;
+}
+
+.js-title:nth-child(1) {
+ color: #1dffff;
+}
+
+.js-title:nth-child(2) {
+ color: #fe0604;
+ mix-blend-mode: color;
+}
