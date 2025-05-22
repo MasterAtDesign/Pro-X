@@ -80,30 +80,30 @@ section .bg .clip-text {
 }
 
 /* .first .bg {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url('../img/synaptimages/section/1.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url('../img/synXptimages/section/1.png');
 }
 
 .second .bg {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url('../img/synaptimages/section/2.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url('../img/synXptimages/section/2.png');
 }
 
 .third .bg {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url('../img/synaptimages/section/3.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.3) 100%), url('../img/synXptimages/section/3.png');
 } */
 
 .fourth .bg {
-  background-image:url('../img/synaptimages/section/4.png');
+  background-image:url('../img/synXptimages/section/4.png');
 }
 
 .fifth .bg {
-  background-image: url('../img/synaptimages/section/banner-2.png');
+  background-image: url('../img/synXptimages/section/banner-2.png');
 }
 .sixth .bg {
-  background-image: url('../img/synaptimages/hello/screen-5.png');
+  background-image: url('../img/synXptimages/hello/screen-5.png');
 }
 
 .seventh .bg {
-  background-image: url('../img/synaptimages/hello/screen-7.svg');
+  background-image: url('../img/synXptimages/hello/screen-7.svg');
 }
 
 .eighth .bg {
@@ -113,7 +113,7 @@ section .bg .clip-text {
 
 
 .sections3{
-  background-image: url('../img/synaptimages/section/bg3.svg');
+  background-image: url('../img/synXptimages/section/bg3.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
